@@ -4,9 +4,9 @@ import inquirer from "inquirer";
 
 // 1) Computer Will generate a random number - Done.
 
-// 2) User input for guessing number - Done
+// 2) User input for guessing number - Done.
 
-// 3) Compare user input with computer generated number and show result - done
+// 3) Compare user input with computer generated number and show result - done.
 
 const randomNumber = Math.floor(Math.random() * 6 + 1);
 
